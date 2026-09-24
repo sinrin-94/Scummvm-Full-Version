@@ -244,4 +244,4 @@ This repository serves as the official landing page for ScummVM. The software is
 **Get the most recent version of ScummVM today!**
 
 ---
-**Last updated:** 2026-09-23 21:54:14 UTC
+**Last updated:** 2026-09-24 00:07:42 UTC
